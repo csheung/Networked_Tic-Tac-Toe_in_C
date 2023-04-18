@@ -1,12 +1,9 @@
-Roux Institute | Spring 2023 | CS5700 Computer Networking <br>
-HW4 Communicating States Across the Network <br>
-file: README.md <br>
-Apr 15, 2023 | by Chun Sheung Ng <br>
+**Apr 15, 2023 | by Chun Sheung Ng**<br>
 ----
 
-# CS5700 Computer Networking (Tic-Tac-Toe in C)
+# Communicating States Across the Network (Tic-Tac-Toe in C)
 
-This is a simple command-line based Tic-Tac-Toe game implemented in C, allowing two players to compete in a classic 3x3 grid. The game supports client-server connections, allowing players to play remotely over a network.<br>
+This is a command-line based Tic-Tac-Toe game implemented in C, allowing two players to compete in a classic 3x3 grid. The game supports client-server connections, allowing players to play remotely over a network.<br>
 
 ## Table of Contents
 - Execution Commands
